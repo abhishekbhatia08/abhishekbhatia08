@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about crafting mobile experiences that are 
 #### [Hero Vired - E-Learning Platform](https://play.google.com/store/apps/details?id=com.herov.lms&hl=en_IN&gl=US)
 Developed a comprehensive cab booking application to enhance the learning experience for Hero Vired students.
 
-#### [BrokerBuk – Property Listing]
+#### BrokerBuk – Property Listing
 Created a dynamic property listing application for brokers, developers, and property owners to manage listings effortlessly.
 
 #### [Ventura Securities – Stocks & Mutual Funds](https://www.venturasecurities.com/)
