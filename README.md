@@ -27,15 +27,6 @@ Led the development of a comprehensive cab booking application for BnB Cabs, ens
 #### [Mechanify](https://play.google.com/store/apps/details?id=com.mechanifyservices&pli=1)
 Designed and developed a service management application, combining the power of Flutter for the front end with a scalable backend using Node.js and MongoDB.
 
-### Screenshots 📸
-
-Take a peek at some screenshots from my projects:
-
-1. [Hero Vired - E-Learning Platform](hero_vired_screenshot_link)
-2. [BrokerBuk – Property Listing](brokerbuk_screenshot_link)
-3. [Ventura Securities – Stocks & Mutual Funds](ventura_securities_screenshot_link)
-4. [BnB Cabs - Cab Booking](bnb_cabs_screenshot_link)
-
 ### Skills Snapshot 🛠️
 
 - **Flutter (Dart):** Crafting beautiful and efficient cross-platform apps.
